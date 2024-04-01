@@ -1,1 +1,1 @@
-# de-loyment_ds31
+Melakukan final project mengenai pengembangan machine learning  untuk memprediksi estimasi waktu pengiriman makanan. Proyek ini melibatkan dataset yang memuat sekitar 200,000 data transaksi pesanan pelanggan dan menerapkan metode linear regression dengan robust scaler.
